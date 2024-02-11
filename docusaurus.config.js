@@ -58,7 +58,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      algolia: {
+        // L'ID de l'application fourni par Algolia
+        appId: 'FILL_WITH_ID',
+  
+        // Clé d'API publique : il est possible de la committer en toute sécurité
+        apiKey: 'FILL',
+  
+        indexName: 'FILL',
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Golden Legends',
