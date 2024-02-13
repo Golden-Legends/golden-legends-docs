@@ -60,12 +60,12 @@ const config = {
     ({
       algolia: {
         // L'ID de l'application fourni par Algolia
-        appId: 'FILL_WITH_ID',
+        appId: '0LT1AW3FAO',
   
         // Clé d'API publique : il est possible de la committer en toute sécurité
-        apiKey: 'FILL',
+        apiKey: 'ba68689f96449b7b71148b3efc470655',
   
-        indexName: 'FILL',
+        indexName: 'crawler_golden-legends',
       },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
