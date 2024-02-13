@@ -58,7 +58,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      algolia: {
+        // L'ID de l'application fourni par Algolia
+        appId: '0LT1AW3FAO',
+  
+        // Clé d'API publique : il est possible de la committer en toute sécurité
+        apiKey: 'ba68689f96449b7b71148b3efc470655',
+  
+        indexName: 'crawler_golden-legends',
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Golden Legends',
