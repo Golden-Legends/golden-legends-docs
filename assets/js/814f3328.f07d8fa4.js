@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/golden-legends-docs/blog/welcome","unlisted":false}]}')}}]);

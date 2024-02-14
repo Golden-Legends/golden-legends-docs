@@ -2,19 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/golden-legends-docs/blog</id>
     <title>Golden Legends Blog</title>
-    <updated>2024-02-08T00:00:00.000Z</updated>
+    <updated>2024-02-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/golden-legends-docs/blog"/>
     <subtitle>Golden Legends Blog</subtitle>
-    <icon>https://github.com/golden-legends-docs/img/favicon.ico</icon>
+    <icon>https://github.com/golden-legends-docs/img/logo.png</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://github.com/golden-legends-docs/blog/welcome</id>
-        <link href="https://github.com/golden-legends-docs/blog/welcome"/>
+        <title type="html"><![CDATA[Architecture]]></title>
+        <id>https://github.com/golden-legends-docs/blog/architecture</id>
+        <link href="https://github.com/golden-legends-docs/blog/architecture"/>
+        <updated>2024-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🏗️ Conception]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-conception">🏗️ Conception<a href="https://github.com/golden-legends-docs/blog/architecture#%EF%B8%8F-conception" class="hash-link" aria-label="Direct link to 🏗️ Conception" title="Direct link to 🏗️ Conception">​</a></h2>]]></content>
+        <author>
+            <name>Rémi Saurel</name>
+            <uri>https://github.com/remisaurel</uri>
+        </author>
+        <category label="divers" term="divers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bienvenue]]></title>
+        <id>https://github.com/golden-legends-docs/blog/bienvenue</id>
+        <link href="https://github.com/golden-legends-docs/blog/bienvenue"/>
         <updated>2024-02-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome guys]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-guys">Welcome guys<a href="https://github.com/golden-legends-docs/blog/welcome#welcome-guys" class="hash-link" aria-label="Direct link to Welcome guys" title="Direct link to Welcome guys">​</a></h3>
-<p>What's up</p>]]></content>
+        <summary type="html"><![CDATA[👋 Bienvenue]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-bienvenue">👋 Bienvenue<a href="https://github.com/golden-legends-docs/blog/bienvenue#-bienvenue" class="hash-link" aria-label="Direct link to 👋 Bienvenue" title="Direct link to 👋 Bienvenue">​</a></h2>
+<p>Nous sommes trois amis étudiants et participons au concours CGI Games On Web 2024 avec notre jeu : Golden Legends.<br>
+<!-- -->Ce blog a été créé pour partager nos expériences et nos découvertes.<br>
+<!-- -->Nous espérons que vous trouverez ici des articles intéressants et que vous prendrez autant de plaisir à les lire que nous en avons eu à les écrire. 😌</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-à-propos-de-nous">📚 À propos de nous<a href="https://github.com/golden-legends-docs/blog/bienvenue#-%C3%A0-propos-de-nous" class="hash-link" aria-label="Direct link to 📚 À propos de nous" title="Direct link to 📚 À propos de nous">​</a></h2>
+<p>Nous sommes trois étudiants en Master MIAGE à Toulouse.<br>
+<!-- -->Étant en alternance dans des entreprises différentes, nous avons décidé de nous lancer dans un projet commun pour le concours CGI Games On Web 2024.<br>
+<!-- -->Cela nous permet non seulement de mettre en pratique les compétences acquises durant notre formation, mais aussi de découvrir de nouvelles technologies et de travailler en équipe sur un sujet qui nous passionne : les jeux vidéo.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-le-blog">🤔 Le blog<a href="https://github.com/golden-legends-docs/blog/bienvenue#-le-blog" class="hash-link" aria-label="Direct link to 🤔 Le blog" title="Direct link to 🤔 Le blog">​</a></h2>
+<p>Nous avons créé ce blog pour partager notre expérience et nos découvertes.\
+Nous y publierons des articles sur notre progression, nos difficultés, nos découvertes, nos réussites, etc. L'objectif est de partager notre aventure avec vous, mais aussi de garder une trace de notre travail et de nos réflexions.</p>]]></content>
         <author>
             <name>Rémi Saurel</name>
             <uri>https://github.com/remisaurel</uri>
@@ -27,6 +49,6 @@
             <name>Théo Pessegue</name>
             <uri>https://github.com/Shannorr</uri>
         </author>
-        <category label="misc" term="misc"/>
+        <category label="divers" term="divers"/>
     </entry>
 </feed>

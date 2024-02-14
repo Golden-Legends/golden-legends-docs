@@ -4,19 +4,37 @@
         <title>Golden Legends Blog</title>
         <link>https://github.com/golden-legends-docs/blog</link>
         <description>Golden Legends Blog</description>
-        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://github.com/golden-legends-docs/blog/welcome</link>
-            <guid>https://github.com/golden-legends-docs/blog/welcome</guid>
+            <title><![CDATA[Architecture]]></title>
+            <link>https://github.com/golden-legends-docs/blog/architecture</link>
+            <guid>https://github.com/golden-legends-docs/blog/architecture</guid>
+            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[🏗️ Conception]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-conception">🏗️ Conception<a href="https://github.com/golden-legends-docs/blog/architecture#%EF%B8%8F-conception" class="hash-link" aria-label="Direct link to 🏗️ Conception" title="Direct link to 🏗️ Conception">​</a></h2>]]></content:encoded>
+            <category>divers</category>
+        </item>
+        <item>
+            <title><![CDATA[Bienvenue]]></title>
+            <link>https://github.com/golden-legends-docs/blog/bienvenue</link>
+            <guid>https://github.com/golden-legends-docs/blog/bienvenue</guid>
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome guys]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-guys">Welcome guys<a href="https://github.com/golden-legends-docs/blog/welcome#welcome-guys" class="hash-link" aria-label="Direct link to Welcome guys" title="Direct link to Welcome guys">​</a></h3>
-<p>What's up</p>]]></content:encoded>
-            <category>misc</category>
+            <description><![CDATA[👋 Bienvenue]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-bienvenue">👋 Bienvenue<a href="https://github.com/golden-legends-docs/blog/bienvenue#-bienvenue" class="hash-link" aria-label="Direct link to 👋 Bienvenue" title="Direct link to 👋 Bienvenue">​</a></h2>
+<p>Nous sommes trois amis étudiants et participons au concours CGI Games On Web 2024 avec notre jeu : Golden Legends.<br>
+<!-- -->Ce blog a été créé pour partager nos expériences et nos découvertes.<br>
+<!-- -->Nous espérons que vous trouverez ici des articles intéressants et que vous prendrez autant de plaisir à les lire que nous en avons eu à les écrire. 😌</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-à-propos-de-nous">📚 À propos de nous<a href="https://github.com/golden-legends-docs/blog/bienvenue#-%C3%A0-propos-de-nous" class="hash-link" aria-label="Direct link to 📚 À propos de nous" title="Direct link to 📚 À propos de nous">​</a></h2>
+<p>Nous sommes trois étudiants en Master MIAGE à Toulouse.<br>
+<!-- -->Étant en alternance dans des entreprises différentes, nous avons décidé de nous lancer dans un projet commun pour le concours CGI Games On Web 2024.<br>
+<!-- -->Cela nous permet non seulement de mettre en pratique les compétences acquises durant notre formation, mais aussi de découvrir de nouvelles technologies et de travailler en équipe sur un sujet qui nous passionne : les jeux vidéo.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-le-blog">🤔 Le blog<a href="https://github.com/golden-legends-docs/blog/bienvenue#-le-blog" class="hash-link" aria-label="Direct link to 🤔 Le blog" title="Direct link to 🤔 Le blog">​</a></h2>
+<p>Nous avons créé ce blog pour partager notre expérience et nos découvertes.\
+Nous y publierons des articles sur notre progression, nos difficultés, nos découvertes, nos réussites, etc. L'objectif est de partager notre aventure avec vous, mais aussi de garder une trace de notre travail et de nos réflexions.</p>]]></content:encoded>
+            <category>divers</category>
         </item>
     </channel>
 </rss>

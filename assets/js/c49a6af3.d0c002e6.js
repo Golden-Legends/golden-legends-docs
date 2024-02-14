@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[616],{6716:e=>{e.exports=JSON.parse('{"permalink":"/golden-legends-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
