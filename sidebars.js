@@ -23,7 +23,7 @@ const sidebars = {
         "type": "generated-index",
         "description": "Nos guides pour profiter au mieux de notre jeu."
       },
-      items: ['guides/games' ],
+      items: ['guides/jeux' ],
     },
   ],
 };
