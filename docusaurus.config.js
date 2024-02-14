@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Golden Legends',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -67,10 +67,13 @@ const config = {
   
         indexName: 'crawler_golden-legends',
       },
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo.png',
       navbar: {
         title: 'Golden Legends',
-      
+        logo: {
+          alt: 'Golden Legends Logo',
+          src: 'img/logo.png',
+        },
         items: [
           {
             type: 'docSidebar',
