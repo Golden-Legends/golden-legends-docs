@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[2768],{2348:e=>{e.exports=JSON.parse('{"permalink":"/golden-legends-docs/blog/tags/technique","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog de Golden Legends"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[604],{4e3:e=>{e.exports=JSON.parse('{"permalink":"/golden-legends-docs/blog/tags/divers","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog de Golden Legends"}')}}]);

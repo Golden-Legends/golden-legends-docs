@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[8984],{1056:e=>{e.exports=JSON.parse('{"label":"architecture","permalink":"/golden-legends-docs/blog/tags/architecture","allTagsPath":"/golden-legends-docs/blog/tags","count":1,"unlisted":false}')}}]);

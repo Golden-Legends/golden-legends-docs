@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[676],{1676:(e,s,d)=>{d.r(s)}}]);

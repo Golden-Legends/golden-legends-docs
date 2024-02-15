@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[340],{4832:e=>{e.exports=JSON.parse('{"label":"divers","permalink":"/golden-legends-docs/blog/tags/divers","allTagsPath":"/golden-legends-docs/blog/tags","count":2,"unlisted":false}')}}]);

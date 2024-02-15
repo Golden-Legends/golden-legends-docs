@@ -8,17 +8,37 @@
     <subtitle>Golden Legends Blog</subtitle>
     <icon>https://github.com/golden-legends-docs/img/logo.png</icon>
     <entry>
-        <title type="html"><![CDATA[Architecture]]></title>
+        <title type="html"><![CDATA[L'architecture, le début]]></title>
         <id>https://github.com/golden-legends-docs/blog/architecture</id>
         <link href="https://github.com/golden-legends-docs/blog/architecture"/>
         <updated>2024-02-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🏗️ Conception]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-conception">🏗️ Conception<a href="https://github.com/golden-legends-docs/blog/architecture#%EF%B8%8F-conception" class="hash-link" aria-label="Direct link to 🏗️ Conception" title="Direct link to 🏗️ Conception">​</a></h2>]]></content>
+        <summary type="html"><![CDATA[La conception de l'architecture de notre projet est une étape cruciale. Celle-ci doit être pensée pour répondre à nos besoins actuels, mais aussi pouvoir évoluer pour nous permettre de réagir facilement aux changements que nous pourrions rencontrer. Découvrez dans cet article les choix que nous avons faits pour notre projet Golden Legends.]]></summary>
+        <content type="html"><![CDATA[<p>La conception de l'architecture de notre projet est une étape cruciale. Celle-ci doit être pensée pour répondre à nos besoins actuels, mais aussi pouvoir évoluer pour nous permettre de réagir facilement aux changements que nous pourrions rencontrer. Découvrez dans cet article les choix que nous avons faits pour notre projet Golden Legends.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-conception">🏗️ Conception<a href="https://github.com/golden-legends-docs/blog/architecture#%EF%B8%8F-conception" class="hash-link" aria-label="Direct link to 🏗️ Conception" title="Direct link to 🏗️ Conception">​</a></h2>
+<p>Après avoir discuté avec Théo et Nicolas, et de par leur expérience avec BabylonJS sur <a href="https://github.com/gamesonweb/be-green-daily-green" target="_blank" rel="noopener noreferrer">leur projet de l'an dernier</a>, nous avons décidé de construire notre projet de façon à pouvoir travailler en parallèle sur les différentes tâches.
+Je vais vous présenter l'architecture en expliquant les raisons pour lesquelles nous avons choisies certaines technologies par rapport à d'autres.</p>
+<!-- -->
+<p>Vous pouvez retrouver l'ensemble du code sur notre <a href="https://github.com/Golden-Legends" target="_blank" rel="noopener noreferrer">organisation GitHub</a>. Nous avons 3 répositories principaux :</p>
+<ul>
+<li><a href="https://github.com/Golden-Legends/golden-legends" target="_blank" rel="noopener noreferrer">Frontend</a></li>
+<li><a href="https://github.com/Golden-Legends/golden-legends-back" target="_blank" rel="noopener noreferrer">Backend</a></li>
+<li><a href="https://github.com/Golden-Legends/golden-legends-docs" target="_blank" rel="noopener noreferrer">Documentation</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-frontend">🖥️ Frontend<a href="https://github.com/golden-legends-docs/blog/architecture#%EF%B8%8F-frontend" class="hash-link" aria-label="Direct link to 🖥️ Frontend" title="Direct link to 🖥️ Frontend">​</a></h3>
+<p>Nous avons décidé d'ajouter un frakework web frontend : VueJS. C'est une technologie que je connais bien et qui permet de créer des interfaces utilisateurs de façon rapide et efficace. Rien de personnel contre React et Angular qui sont également très puissants, question de préférences ici.\</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-backend">🏭 Backend<a href="https://github.com/golden-legends-docs/blog/architecture#-backend" class="hash-link" aria-label="Direct link to 🏭 Backend" title="Direct link to 🏭 Backend">​</a></h3>
+<p>Côté Backend, nous n'avions de l'expérience qu'avec Spring Boot. Bien que celui-ci soit très performant et aurait très bien pu correspondre à nos besoins, nous avons décidé de nous tourner vers <a href="https://adonisjs.com/" target="_blank" rel="noopener noreferrer">AdonisJS</a>.</p>
+<p>Après être monté en compétence dessus via un projet personnel, j'ai été convaincu par ce framework. Il est très complet et permet de rester dans l'écosystème Javascript/Typescript. De plus, il est très bien documenté et dispose d'une communauté active qui pourra nous aider si nous rencontrons des difficultés.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-communications">↔️ Communications<a href="https://github.com/golden-legends-docs/blog/architecture#%EF%B8%8F-communications" class="hash-link" aria-label="Direct link to ↔️ Communications" title="Direct link to ↔️ Communications">​</a></h3>
+<p>Pour la communication entre le Frontend et le Backend, nous avons choisi d'utiliser une architecture REST pour les requêtes classiques. À ce jour, nous commenceons à mettre en place des websockets pour les communications en temps réel qui serviront pour.... le <strong>mode multijoueur</strong> !</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-documentation">📚 Documentation<a href="https://github.com/golden-legends-docs/blog/architecture#-documentation" class="hash-link" aria-label="Direct link to 📚 Documentation" title="Direct link to 📚 Documentation">​</a></h3>
+<p>Pour la documentation (et le blog...), nous avons choisi d'utiliser <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>. C'est un outil qui permet de créer des sites statiques à partir de fichiers Markdown. Cela nous permettra de documenter notre projet de façon claire et efficace.</p>]]></content>
         <author>
             <name>Rémi Saurel</name>
             <uri>https://github.com/remisaurel</uri>
         </author>
-        <category label="divers" term="divers"/>
+        <category label="architecture" term="architecture"/>
+        <category label="technique" term="technique"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bienvenue]]></title>

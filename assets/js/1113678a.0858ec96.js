@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolden_legends_docs=self.webpackChunkgolden_legends_docs||[]).push([[9228],{4920:e=>{e.exports=JSON.parse('{"label":"technique","permalink":"/golden-legends-docs/blog/tags/technique","allTagsPath":"/golden-legends-docs/blog/tags","count":1,"unlisted":false}')}}]);
