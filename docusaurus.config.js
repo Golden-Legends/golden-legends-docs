@@ -35,7 +35,10 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   presets: [
     [
       'classic',
@@ -47,6 +50,10 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogTitle: 'Blog de Golden Legends',
+          postsPerPage: 'ALL',
+          blogSidebarTitle: 'Tous les articles',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',

@@ -10,6 +10,8 @@ Nous sommes trois amis étudiants et participons au concours CGI Games On Web 20
 Ce blog a été créé pour partager nos expériences et nos découvertes.\
 Nous espérons que vous trouverez ici des articles intéressants et que vous prendrez autant de plaisir à les lire que nous en avons eu à les écrire. 😌
 
+<!-- truncate -->
+
 ## 📚 À propos de nous
 Nous sommes trois étudiants en Master MIAGE à Toulouse.\
 Étant en alternance dans des entreprises différentes, nous avons décidé de nous lancer dans un projet commun pour le concours CGI Games On Web 2024.\
