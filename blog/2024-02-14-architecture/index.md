@@ -1,6 +1,6 @@
 ---
 slug: architecture
-title: Architecture
+title: L'architecture, le début
 authors: [remi]
 tags: [architecture, technique]
 ---
@@ -50,11 +50,10 @@ Nous avons décidé d'ajouter un frakework web frontend : VueJS. C'est une techn
 ### 🏭 Backend
 Côté Backend, nous n'avions de l'expérience qu'avec Spring Boot. Bien que celui-ci soit très performant et aurait très bien pu correspondre à nos besoins, nous avons décidé de nous tourner vers [AdonisJS](https://adonisjs.com/).
 
-Après être monté en compétence dessus via un projet personnel, j'ai été convaincu par ce framework. Il est très complet et permet de rester dans l'écosystème Javascript/Typescript.
+Après être monté en compétence dessus via un projet personnel, j'ai été convaincu par ce framework. Il est très complet et permet de rester dans l'écosystème Javascript/Typescript. De plus, il est très bien documenté et dispose d'une communauté active qui pourra nous aider si nous rencontrons des difficultés.
 
 ### ↔️ Communications
+Pour la communication entre le Frontend et le Backend, nous avons choisi d'utiliser une architecture REST pour les requêtes classiques. À ce jour, nous commenceons à mettre en place des websockets pour les communications en temps réel qui serviront pour.... le **mode multijoueur** !
 
 ### 📚 Documentation
-
-
-
+Pour la documentation (et le blog...), nous avons choisi d'utiliser [Docusaurus](https://docusaurus.io/). C'est un outil qui permet de créer des sites statiques à partir de fichiers Markdown. Cela nous permettra de documenter notre projet de façon claire et efficace.
