@@ -12,3 +12,5 @@ description: Contenu général sur les jeux
 ## Tennis
 
 ## Tir à l'arc
+
+## Boxe
