@@ -15,7 +15,6 @@
 const sidebars = {
   tutorialSidebar: [
     'intro',
-    'contribuer',
     {
       type: 'category',
       label: 'Guides',
@@ -23,8 +22,10 @@ const sidebars = {
         "type": "generated-index",
         "description": "Nos guides pour profiter au mieux de notre jeu."
       },
-      items: ['guides/jeux' ],
+      items: ['guides/premiers-pas', 'guides/jeux' ],
     },
+    'contribuer',
+
   ],
 };
 
